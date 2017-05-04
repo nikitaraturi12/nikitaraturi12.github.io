@@ -1,0 +1,37 @@
+#main
+{
+	background-color: #4682B4;
+}
+#mainh1
+{
+	text-align: center;
+	color: red;
+	font-family: 'Kaushan Script', cursive;
+
+}
+.navbar-default .navbar-nav>li>a {
+    color: black;
+    }
+
+   #content
+   {
+   	font-family: 'Kaushan Script', cursive;
+   	text-align: center;
+
+   }
+     p
+   {
+   	font-family: 'Kaushan Script', cursive;
+   	font-size: 20px;
+   text-align: justify;
+   }
+
+    footer {
+
+   background: black;	;
+   color: #eee;
+   font-size: 20px;
+   margin-top: 5%;
+   padding: 10px;
+   font-family: 'Kaushan Script', cursive;
+}
